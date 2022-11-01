@@ -1,8 +1,8 @@
 +++
 title = "About"
 description = "I created this blog to overcome my fear of writing"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
+date = "2022-11-01"
+aliases = ["about-us","contact"]
 author = "Razhan Hameed"
 +++
 

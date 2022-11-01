@@ -4,7 +4,6 @@ languageCode = "en-us"
 title = "Razhan Hameed"
 theme="archie"
 copyright = "© Razhan"
-# publishDir = "docs"
 pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -17,6 +16,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 	mode="toggle"
 	useCDN=false
 	subtitle = "Overcoming my fear of writing."
+	favicon = "https://img.icons8.com/officel/16/000000/chevron-right.png"
 
 [[params.social]]
 name = "GitHub"
